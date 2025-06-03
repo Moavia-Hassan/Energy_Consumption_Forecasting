@@ -6,7 +6,8 @@ This project focuses on forecasting energy consumption using advanced machine le
 
 The project involves the use of multiple models and methodologies to achieve accurate predictions, including:
 
-- **Feature Engineering**: Extracting meaningful features from the dataset to improve model performance.
+- **Feature Engineering:**
+ Extracting meaningful features from the dataset to improve model performance.
 - **Machine Learning Models**: Implementing models such as XGBoost for efficient and scalable predictions.
 - **Time Series Analysis**: Leveraging FBProphet and SARIMA models to capture temporal patterns and trends in the data.
 - **Deep Learning**: Utilizing LSTM (Long Short-Term Memory) networks to handle sequential dependencies and long-term patterns in time series data.

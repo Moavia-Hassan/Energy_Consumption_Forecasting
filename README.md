@@ -17,7 +17,7 @@ The project involves the use of multiple models and methodologies to achieve acc
 1. **Data Analysis**: Comprehensive exploratory data analysis (EDA) to understand data patterns and relationships.
 2. **Prediction Models**: Integration of machine learning, time series, and deep learning models to forecast energy consumption.
 3. **Visualization**: Clear and informative visualizations for historical data and future predictions, aiding in insights and decision-making.
-4. **Custom Solutions**: Fine-tuned models to adapt to specific forecasting requirements and improve accuracy.
+4. **Custom Solutions**: Fine tuned models to adapt to specific forecasting requirements and improve accuracy.
 
 ## Tech Stack
 
